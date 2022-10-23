@@ -1,0 +1,142 @@
+{
+  "idKat": "HU",
+  "namaKat": "Humas",
+  "klasifikasi": [
+    {
+      "idKlas": "00",
+      "namaKlas": "Manajemen Isu dan Krisis (MIK)",
+      "subKlas": [
+        {
+          "idKlas": "0001",
+          "namaKlas": "Kliping Koran"
+        },
+        {
+          "idKlas": "0002",
+          "namaKlas": "Daily News Monitoring (DNM)"
+        },
+        {
+          "idKlas": "0003",
+          "namaKlas": "Analisis Pemberitaan Media Cetak"
+        }
+      ]
+    },
+    {
+      "idKlas": "01",
+      "namaKlas": "Pengumpulan, Pengolahan, dan Penyajian Informasi Kelembagaan",
+      "subKlas": [
+        {
+          "idKlas": "0101",
+          "namaKlas": "Majalah Warta BPK"
+        },
+        {
+          "idKlas": "0102",
+          "namaKlas": "Buletin Info BPK"
+        },
+        {
+          "idKlas": "0103",
+          "namaKlas": "Buku-buku Mengenai Kelembagaan"
+        }
+      ]
+    },
+    {
+      "idKlas": "02",
+      "namaKlas": "Public Awareness Campaign (PAC)",
+      "subKlas": [
+        {
+          "idKlas": "0201",
+          "namaKlas": "Publikasi Melalui Media Cetak dan Elektronik Naskah yang Berkaitan dengan Bukti Siar Kegiatan Adventorial / Talk Show / Live Report"
+        },
+        {
+          "idKlas": "0202",
+          "namaKlas": "Pengumuman / Pemberitaan di Siska dan Website BPK"
+        },
+        {
+          "idKlas": "0203",
+          "namaKlas": "Rekapitulasi Informasi yang Dipublikasikan Melalui Digital Signage"
+        }
+      ]
+    },
+    {
+      "idKlas": "03",
+      "namaKlas": "Pengelolaan Informasi Publik",
+      "subKlas": [
+        {
+          "idKlas": "0301",
+          "namaKlas": "Dokumen Pendukung Permintaan Informasi Publik"
+        },
+        {
+          "idKlas": "0302",
+          "namaKlas": "Dokumen Pendukung"
+        }
+      ]
+    },
+    {
+      "idKlas": "04",
+      "namaKlas": "Hubungan dengan Media Massa",
+      "subKlas": [
+        {
+          "idKlas": "0401",
+          "namaKlas": "Konferensi Pers / Siaran Pers / Press Release"
+        },
+        {
+          "idKlas": "0402",
+          "namaKlas": "Permohonan Kunjungan Wartawan dan Wawancara"
+        },
+        {
+          "idKlas": "0403",
+          "namaKlas": "Media Visit / Media Gathering"
+        }
+      ]
+    },
+    {
+      "idKlas": "05",
+      "namaKlas": "Hubungan Antar Lembaga Pemerintah dan Non-Pemerintah",
+      "subKlas": [
+        {
+          "idKlas": "0501",
+          "namaKlas": "Laporan RDP dengan DPR dan Rapat Konsultasi atau Kunjungan Kerja dengan Lembaga Perwakilan"
+        },
+        {
+          "idKlas": "0502",
+          "namaKlas": "Laporan Pelaksanaan Kegiatan Hubungan dan Kerja Sama dengan Lembaga Non-Pemerintahan"
+        }
+      ]
+    },
+    {
+      "idKlas": "06",
+      "namaKlas": "Hubungan dengan Lembaga-lembaga Pemeriksa di Luar Negeri"
+    },
+    {
+      "idKlas": "07",
+      "namaKlas": "Hubungan dengan INTOSAI, ASOSAI, dan ASEANSAI dan Organisasi Internasional Lainnya",
+      "subKlas": [
+        {
+          "idKlas": "0701",
+          "namaKlas": "Korespondensi terkait kegiatan BPK dengan Organisasi Internasional"
+        },
+        {
+          "idKlas": "0702",
+          "namaKlas": "Pelaksanaan Kegiatan INTOSAI, ASOSAI, dan ASEANSAI dan Organisasi Internasional"
+        }
+      ]
+    },
+    {
+      "idKlas": "08",
+      "namaKlas": "Publikasi Ke-BPK-an",
+      "subKlas": [
+        {
+          "idKlas": "0801",
+          "namaKlas": "Liputan Kegiatan Dinas Pimpinan, Acara Kedinasan, dan Peristiwa di Bidang Masing-masing dalam Berbagai Media"
+        },
+        {
+          "idKlas": "0802",
+          "namaKlas": "Pameran / Lomba"
+        },
+        {
+          "idKlas": "0803",
+          "namaKlas": "Ucapan Terima Kasih, Form Pengumuman Belasungkawa, Pemberian Kenang-kenangan Berupa Plakat"
+        }
+      ]
+    }
+  ]
+}

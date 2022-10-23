@@ -1,0 +1,106 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Klasifikasi {
+  idKlas: Int!
+  kodeDivisi: String!
+  kodeJudul: String!
+  judul: String!
+  kodeSubJudul: String
+  subJudul: String
+  jangkaSimpananAktif: Int
+  jangkaSimpananInaktif: Int
+}
+
+type Arsip {
+  id: Int!
+  user: User!
+  klasifikasi: Klasifikasi!
+  kodeDivisi: String!
+  kodeJudul: String!
+  kodeSubJudul: String
+  userId: String!
+  no_definitif: Float!
+  kode_klasifikasi: Float
+  nama_uraian_berkas: String!
+  tahun_berkas: Float!
+  jangka_waktu_simpanan: Float
+  tingkat_perkembangan: String
+  status_arsip: String
+}
+
+type User {
+  id: String!
+  email: String!
+  password: String!
+  role: Roles!
+  arsip: [Arsip!]
+}
+
+enum Roles {
+  Admin
+  User
+}
+
+type Query {
+  getAllArsip: [Arsip!]!
+  findArsip(id: Int!): Arsip!
+  getAllUser: [User!]!
+  findUser(id: String!): User!
+  findAll: [Klasifikasi!]!
+}
+
+type Mutation {
+  createArsip(createArsipInput: CreateArsipInput!): Arsip!
+  updateArsip(arsip: UpdateArsipInput!): Arsip!
+  removeArsip(id: Float!): Arsip!
+  createUser(createUserInput: CreateUserInput!): User!
+  updateUser(user: UpdateUserInput!): User!
+  removeUser(id: String!): User!
+  addAllKlas: [Klasifikasi!]!
+  refreshKlas: [Klasifikasi!]!
+}
+
+input CreateArsipInput {
+  no_definitif: Float!
+  kode_klasifikasi: Float
+  nama_uraian_berkas: String!
+  tahun_berkas: Float!
+  jangka_waktu_simpanan: Float
+  tingkat_perkembangan: String
+  status_arsip: String
+  userId: String!
+  kodeDivisi: String!
+  kodeJudul: String!
+  kodeSubJudul: String
+}
+
+input UpdateArsipInput {
+  id: Int!
+  no_definitif: Float
+  kode_klasifikasi: Float
+  nama_uraian_berkas: String
+  tahun_berkas: Float
+  jangka_waktu_simpanan: Float
+  tingkat_perkembangan: String
+  status_arsip: String
+  userId: String
+  kodeDivisi: String
+  kodeJudul: String
+  kodeSubJudul: String
+}
+
+input CreateUserInput {
+  id: String!
+  email: String!
+  password: String!
+  role: Roles!
+}
+
+input UpdateUserInput {
+  id: String!
+  email: String
+  password: String
+  role: Roles
+}

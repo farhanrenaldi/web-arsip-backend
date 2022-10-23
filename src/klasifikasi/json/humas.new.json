@@ -1,0 +1,213 @@
+{
+    "kodeDivisi": "HU",
+    "namaDivisi": "Humas",
+    "klasifikasi": [
+      {
+        "id": 1,
+        "kodeJudul": "00",
+        "judul": "Manajemen Isu dan Krisis (MIK)",
+        "kodeSubJudul": "01",
+        "subJudul": "Kliping Koran",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 2,
+        "kodeJudul": "00",
+        "judul": "Manajemen Isu dan Krisis (MIK)",
+        "kodeSubJudul": "02",
+        "subJudul": "Daily News Monitoring (DNM)",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 3,
+        "kodeJudul": "00",
+        "judul": "Manajemen Isu dan Krisis (MIK)",
+        "kodeSubJudul": "03",
+        "subJudul": "Analisis Pemberitaan Media Cetak",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 4,
+        "kodeJudul": "01",
+        "judul": "Pengumpulan, Pengolahan, dan Penyajian Informasi Kelembagaan",
+        "kodeSubJudul": "01",
+        "subJudul": "Majalah Warta BPK",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 5,
+        "kodeJudul": "01",
+        "judul": "Pengumpulan, Pengolahan, dan Penyajian Informasi Kelembagaan",
+        "kodeSubJudul": "02",
+        "subJudul": "Buletin Info BPK",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 6,
+        "kodeJudul": "01",
+        "judul": "Pengumpulan, Pengolahan, dan Penyajian Informasi Kelembagaan",
+        "kodeSubJudul": "03",
+        "subJudul": "Buku-buku Mengenai Kelembagaan",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 7,
+        "kodeJudul": "02",
+        "judul": "Public Awareness Campaign (PAC)",
+        "kodeSubJudul": "01",
+        "subJudul": "Publikasi Melalui Media Cetak dan Elektronik Naskah yang Berkaitan dengan Bukti Siar Kegiatan Adventorial / Talk Show / Live Report",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 8,
+        "kodeJudul": "02",
+        "judul": "Public Awareness Campaign (PAC)",
+        "kodeSubJudul": "02",
+        "subJudul": "Pengumuman / Pemberitaan di Siska dan Website BPK",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 9,
+        "kodeJudul": "02",
+        "judul": "Public Awareness Campaign (PAC)",
+        "kodeSubJudul": "03",
+        "subJudul": "Rekapitulasi Informasi yang Dipublikasikan Melalui Digital Signage",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 10,
+        "kodeJudul": "03",
+        "judul": "Pengelolaan Informasi Publik",
+        "kodeSubJudul": "01",
+        "subJudul": "Dokumen Pendukung Permintaan Informasi Publik",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 11,
+        "kodeJudul": "03",
+        "judul": "Pengelolaan Informasi Publik",
+        "kodeSubJudul": "02",
+        "subJudul": "Dokumen Pendukung",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 12,
+        "kodeJudul": "04",
+        "judul": "Hubungan dengan Media Massa",
+        "kodeSubJudul": "01",
+        "subJudul": "Konferensi Pers / Siaran Pers / Press Release",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 13,
+        "kodeJudul": "04",
+        "judul": "Hubungan dengan Media Massa",
+        "kodeSubJudul": "02",
+        "subJudul": "Permohonan Kunjungan Wartawan dan Wawancara",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 14,
+        "kodeJudul": "04",
+        "judul": "Hubungan dengan Media Massa",
+        "kodeSubJudul": "03",
+        "subJudul": "Media Visit / Media Gathering",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 15,
+        "kodeJudul": "05",
+        "judul": "Hubungan Antar Lembaga Pemerintah dan Non-pemerintah",
+        "kodeSubJudul": "01",
+        "subJudul": "Laporan RDP dengan DPR dan Rapat Konsultasi atau Kunjungan Kerja dengan Lembaga Perwakilan",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 16,
+        "kodeJudul": "05",
+        "judul": "Hubungan Antar Lembaga Pemerintah dan Non-pemerintah",
+        "kodeSubJudul": "02",
+        "subJudul": "Laporan Pelaksanaan Kegiatan Hubungan dan Kerja Sama dengan Lembaga Non-Pemerintahan",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 17,
+        "kodeJudul": "06",
+        "judul": "Hubungan dengan Lembaga-lembaga Pemeriksa di Luar Negeri",
+        "kodeSubJudul": null,
+        "subJudul": null,
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 18,
+        "kodeJudul": "07",
+        "judul": "Hubungan dengan INTOSAI, ASOSAI, dan ASEANSAI dan Organisasi Internasional Lainnya",
+        "kodeSubJudul": "01",
+        "subJudul": "Korespondensi terkait kegiatan BPK dengan Organisasi Internasional",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 19,
+        "kodeJudul": "07",
+        "judul": "Hubungan dengan INTOSAI, ASOSAI, dan ASEANSAI dan Organisasi Internasional Lainnya",
+        "kodeSubJudul": "02",
+        "subJudul": "Pelaksanaan Kegiatan INTOSAI, ASOSAI, dan ASEANSAI dan Organisasi Internasional",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 20,
+        "kodeJudul": "08",
+        "judul": "Publikasi Ke-BPK-an",
+        "kodeSubJudul": "01",
+        "subJudul": "Liputan Kegiatan Dinas Pimpinan, Acara Kedinasan, dan Peristiwa di Bidang Masing-masing dalam Berbagai Media",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 21,
+        "kodeJudul": "08",
+        "judul": "Publikasi Ke-BPK-an",
+        "kodeSubJudul": "01",
+        "subJudul": "Liputan Kegiatan Dinas Pimpinan, Acara Kedinasan, dan Peristiwa di Bidang Masing-masing dalam Berbagai Media",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 22,
+        "kodeJudul": "08",
+        "judul": "Publikasi Ke-BPK-an",
+        "kodeSubJudul": "02",
+        "subJudul": "Pameran / Lomba",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 23,
+        "kodeJudul": "08",
+        "judul": "Publikasi Ke-BPK-an",
+        "kodeSubJudul": "03",
+        "subJudul": "Ucapan Terima Kasih, Form Pengumuman Belasungkawa, Pemberian Kenang-kenangan Berupa Plakat",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      }
+    ]
+  }

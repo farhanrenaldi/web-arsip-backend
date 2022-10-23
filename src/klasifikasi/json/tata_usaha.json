@@ -1,0 +1,46 @@
+{
+    "idKat": "TU",
+    "namaKat": "Tata Usaha",
+    "klasifikasi": [
+      {
+        "idKlas": "00",
+        "namaKlas": "Daftar Alamat Pendistribusian Hasil Pemeriksaan (IHPS) Instansi Pusat dan Daerah Serta Resi Pengiriman"
+      },
+      {
+        "idKlas": "01",
+        "namaKlas": "Perjalanan Dinas",
+        "subKlas": [
+          {
+            "idKlas": "0101",
+            "namaKlas": "Perjalanan Dinas Dalam Negeri"
+          },
+          {
+            "idKlas": "0102",
+            "namaKlas": "Perjalanan Dinas Luar Negeri"
+          }
+        ]
+      },
+      {
+        "idKlas": "02",
+        "namaKlas": "Pengurusan Dokumen Luar Negeri"
+      },
+      {
+        "idKlas": "03",
+        "namaKlas": "Rapat",
+        "subKlas": [
+          {
+            "idKlas": "0301",
+            "namaKlas": "Rapat Pimpinan"
+          },
+          {
+            "idKlas": "0302",
+            "namaKlas": "Rapat Staff"
+          },
+          {
+            "idKlas": "0303",
+            "namaKlas": "Rapat Koordinasi"
+          }
+        ]
+      }
+    ]
+  }

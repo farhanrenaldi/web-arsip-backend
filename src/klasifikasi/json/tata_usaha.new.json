@@ -1,0 +1,69 @@
+{
+    "kodeDivisi": "TU",
+    "namaDivisi": "Tata Usaha",
+    "klasifikasi": [
+      {
+        "id": 1,
+        "kodeJudul": "00",
+        "judul": "Daftar Alamat Pendistribusian Hasil Pemeriksaan (IHPS) Instansi Pusat dan Daerah Serta Resi Pengiriman",
+        "kodeSubJudul": null,
+        "subJudul": null,
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 2,
+        "kodeJudul": "01",
+        "judul": "Perjalanan Dinas",
+        "kodeSubJudul": "01",
+        "subJudul": "Dalam Negeri",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 3,
+        "kodeJudul": "01",
+        "judul": "Perjalanan Dinas",
+        "kodeSubJudul": "02",
+        "subJudul": "Luar Negeri",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 4,
+        "kodeJudul": "02",
+        "judul": "Pengurusan Dokumen Luar Negeri",
+        "kodeSubJudul": null,
+        "subJudul": null,
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 5,
+        "kodeJudul": "03",
+        "judul": "Rapat",
+        "kodeSubJudul": "01",
+        "subJudul": "Rapat Pimpinan",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 6,
+        "kodeJudul": "03",
+        "judul": "Rapat",
+        "kodeSubJudul": "02",
+        "subJudul": "Rapat Staff",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      },
+      {
+        "id": 7,
+        "kodeJudul": "03",
+        "judul": "Rapat",
+        "kodeSubJudul": "03",
+        "subJudul": "Rapat Koordinasi",
+        "jangkaSimpanAktif": null,
+        "jangkaSimpanInaktif": null
+      }
+    ]
+  }
